@@ -4,12 +4,12 @@
 
 
 Welcome to my GitHub profile.
-I'M Nitu. I am a professional Web Designer & WordPress Developer. I am a full time Freelancer. I have more then 3 year's experience in this site. If you want to create or design any page please contact me.
+I'M Nitu. I am a professional Web Designer & WordPress Developer. I am a full time Freelancer. I have more then 3 year's experience in those site. If you want to create modern, eye-catching web design or any beautiful landing page and WordPress website please contact me.
 Email: nitubarmon121@gmail.com
 
 Thank you again for checking my profile.
 
-Skills:  JS / HTML / CSS/PHP/BOOTSTRAP
+Skills:  HTML / CSS/JS/PHP/BOOTSTRAP/WordPress
 
 - 🔭 I’m currently working on fiverr 
 - 🌱 I’m currently learning PHP,Wordpress 
