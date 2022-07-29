@@ -9,7 +9,7 @@ Email: nitubarmon121@gmail.com
 
 Thank you again for checking my profile.
 
-Skills:  HTML / CSS/JS/PHP/BOOTSTRAP/WordPress
+Skills:  HTML/CSS/SASS/jQuery/JS/BOOTSTRAP/PHP/WordPress Theme Customization/WordPress Theme Development.
 
 - 🔭 I’m currently working on fiverr 
 - 🌱 I’m currently learning PHP,Wordpress 
