@@ -11,11 +11,11 @@ Thank you again for checking my profile.
 
 Skills:  HTML/CSS/SASS/jQuery/JS/BOOTSTRAP/PHP/WordPress Theme Customization/WordPress Theme Development.
 
-- 🔭 I’m currently working on fiverr 
-- 🌱 I’m currently learning PHP,Wordpress 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Design 
-- 📫 How to reach me: Contact me email 
+- 🔭 I’m currently working on fiverr. 
+- 🌱 Ask me about WordPress Theme Customization / WordPress Theme Development.
+- 👯 I’m looking to collaborate on GitHub. 
+- 💬 Ask me about Web Design. 
+- 📫 How to reach me: Contact me email.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FreelancerNitu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nitu-barmon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/NaShreeNitu1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NAShreeNitu1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/NAShreeNitu1)  
