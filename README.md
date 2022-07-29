@@ -1,5 +1,5 @@
 ![Web Designer & WordPress Developer](https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/s960x960/147437163_1341914592837826_171177982944536852_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeE43jUKxxqqXFEWRVlK55BCAKPruPKSJLkAo-u48pIkuTWajOfwWPmCGn0vXI9SPxlUct5sMq4vKgiGQPt-7afz&_nc_ohc=k0uC9bOgW98AX-zp7QD&_nc_ht=scontent.fdac99-1.fna&oh=baf50ac733e2be9352124cd7f5332aca&oe=614C491C)
-## Hi there 👋, my name is Nitu
+## Hi There 👋, My name is Nitu Barmon
 ### Web Designer & WordPress Developer
 
 
